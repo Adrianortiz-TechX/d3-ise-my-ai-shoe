@@ -2,8 +2,7 @@
 
 ## Our Team
 
-TODO: Replace with your team members
-
+Adrain Ortiz
 ## How to run the streamlit app
 
 ### Running the Streamlit app for development
