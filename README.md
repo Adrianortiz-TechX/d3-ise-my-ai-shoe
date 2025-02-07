@@ -3,6 +3,9 @@
 ## Our Team
 
 Adrain Ortiz
+Cesar A. Ruiz Navarro
+Habeebah Dawodu
+
 ## How to run the streamlit app
 
 ### Running the Streamlit app for development
