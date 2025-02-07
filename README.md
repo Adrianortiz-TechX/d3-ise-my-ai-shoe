@@ -3,7 +3,7 @@
 ## Our Team
 
 TODO: Replace with your team members
-
+Habeebah Dawodu
 ## How to run the streamlit app
 
 ### Running the Streamlit app for development
