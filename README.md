@@ -3,8 +3,9 @@
 ## Our Team
 
 TODO: Replace with your team members
-Cesar A. Ruiz Navarro
 
+Cesar A. Ruiz Navarro
+Habeebah Dawodu
 ## How to run the streamlit app
 
 ### Running the Streamlit app for development
